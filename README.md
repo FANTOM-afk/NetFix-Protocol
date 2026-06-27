@@ -1,4 +1,4 @@
-# 🔧 NetFix Protocol v1.1
+# 🔧 NetFix Protocol v1.2
 
 > **Automated Wi-Fi / LAN Connection Monitor & Repair Tool**  
 > مانیتورینگ و تعمیر خودکار اتصال وای‌فای و LAN
@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-00FF41?style=flat&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-00BFFF?style=flat&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-FF003C?style=flat)
+![Version](https://img.shields.io/badge/Version-1.2-00E5FF?style=flat)
 
 ---
 
@@ -190,7 +191,18 @@ python -c "import utils; print('Admin:', utils.check_admin())"
 
 ## 📦 Changelog | تغییرات
 
-### v1.1 (Current)
+### v1.2 (Latest)
+- **SSID Dropdown + Scan**: Added `CTkComboBox` for network selection with real-time Wi-Fi scan (`⟳ Scan` button)
+- **Connection Awareness**: On SSID select, app now checks if already connected to that network before prompting for password
+- **Smart Connect**: Auto-connects using saved profile or creates new profile via `netsh wlan` with password
+- **Clear/Reset Settings**: Added "Clear Fields" and "Reset Defaults" buttons in Network Settings
+- **Burger Menu Fix**: Menu button properly positioned, hidden initially, appears after first close
+- **Live Indicator**: Replaced progress bar with blinking green dot + "● LIVE" text when monitoring active
+- **Window Size**: Optimized to 700×780 with zero-padding main frame for full-width UI
+- **Theme Polish**: Refined dark/light palettes, rounded buttons, section headers with accent lines
+- **Radio Lock**: Wi-Fi/LAN radio buttons disabled during monitoring to prevent mode switching
+
+### v1.1
 - Live ping chart with domestic/international visualization
 - Dark/Light theme toggle
 - Auto-start Windows registration
@@ -215,6 +227,5 @@ MIT License — feel free to use, modify, and distribute.
 <div align="center">
   <sub>Built with ❤️ by <b>FANTOM</b></sub>
   <br>
-  <sub>Version 1.1</sub>
+  <sub>Version 1.2</sub>
 </div>
-
