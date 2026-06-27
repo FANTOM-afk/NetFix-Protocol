@@ -1,0 +1,15 @@
+[14:54:09] INFO: Starting debug_main.py
+[14:54:09] INFO: ctypes imported
+[14:54:09] INFO: utils imported
+[14:54:09] INFO: Admin check passed
+[14:54:10] DEBUG: matplotlib data path: C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\mpl-data
+[14:54:10] DEBUG: CONFIGDIR=C:\Users\User\.matplotlib
+[14:54:10] DEBUG: interactive is False
+[14:54:10] DEBUG: platform is win32
+[14:54:10] DEBUG: CACHEDIR=C:\Users\User\.matplotlib
+[14:54:10] DEBUG: Using fontManager instance from C:\Users\User\.matplotlib\fontlist-v390.json
+[14:54:10] INFO: NetFixApp imported
+[14:54:10] INFO: Mutex created: 844, error: 183
+[14:54:10] INFO: Another instance running, bringing to front
+[14:54:10] INFO: Found existing window: NET_FIX_PROTOCOL v1.1
+[14:54:10] INFO: SystemExit: 0
