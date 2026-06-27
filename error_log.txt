@@ -1,10 +1,1 @@
-NetFixProtocol - ERROR
-============================================================
-Traceback (most recent call last):
-  File "c:\Users\User\Desktop\NetFixProtocol\NetFix-protocol v1.1\NetFix-protocol v1.1\main.py", line 32, in <module>
-    from app import NetFixApp  # noqa: E402  (must come after the admin check)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "c:\Users\User\Desktop\NetFixProtocol\NetFix-protocol v1.1\NetFix-protocol v1.1\app.py", line 459
-    def toggle_menu(self) -> None:
-IndentationError: unexpected indent
 
