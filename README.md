@@ -14,7 +14,6 @@
 
 NetFix Protocol monitors Wi-Fi/LAN connectivity by pinging domestic and international hosts, shows a live status/chart, and can repair Wi-Fi outages automatically. Version **v1.3** also adds a built-in **V2Ray Router**, local **BG Proxy** mode, an in-app **Cloudflare Account** browser, Windows tray support, safer persistence, and a packaged one-file executable.
 
-NetFix Protocol اتصال Wi-Fi یا LAN را با پینگ گرفتن از هاست‌های داخلی و خارجی بررسی می‌کند، وضعیت را زنده نمایش می‌دهد و در صورت قطعی کامل می‌تواند اتصال Wi-Fi را تعمیر کند. در نسخه **v1.3** امکانات V2Ray Router، پروکسی محلی پس‌زمینه، مرورگر داخلی Cloudflare، Tray Icon ویندوز، ذخیره‌سازی امن‌تر فایل‌ها و خروجی EXE آماده اضافه شده است.
 
 ### ✨ Features | ویژگی‌ها
 
