@@ -1,0 +1,15 @@
+{
+    "domestic_hosts": [
+        "web.bale.ai",
+        "zarebin.ir",
+        "ble.ir"
+    ],
+    "international_hosts": [
+        "8.8.8.8",
+        "1.1.1.1"
+    ],
+    "ping_interval": 4,
+    "theme": "dark",
+    "v2ray_background_enabled": true,
+    "v2ray_background_port": 10809
+}
